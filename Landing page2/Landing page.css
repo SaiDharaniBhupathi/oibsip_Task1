@@ -1,0 +1,309 @@
+.home-logo-image {
+    height: 56px;
+    width: 163px;
+}
+
+
+.services-bg-container {
+    background-color: white;
+}
+
+
+.services-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.services-description {
+    color: #616c7c;
+    font-family: "Roboto";
+    font-size: 24px;
+}
+
+.services-sub-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 26px;
+}
+
+.services-content {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.services-logo-image {
+
+    width: 80px;
+}
+
+.products-bg-container1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+}
+
+.products-main-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.products-card {
+    height: 328px;
+    padding: 20px;
+    border-radius: 16px;
+}
+
+.products-bg-container2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+}
+
+.products-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.products-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.products-card-button {
+    color: #ff9f00;
+    background-color: #ffffff;
+    font-family: "Roboto";
+    font-size: 16px;
+    width: 134px;
+    height: 48px;
+    border-width: 0px;
+    border-radius: 100px;
+}
+
+.products-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.products-card-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.products-card-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.products-list-item {
+    color: #32f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.products-item-category {
+    font-weight: bold;
+}
+
+.products-section-link {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.offers-bg-container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.offers-heading {
+    color: #ad2167;
+    font-family: "Bree serif";
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.offers-description {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.offers-image {
+    width: 280px;
+    margin: 10px;
+}
+
+.blogs-heading {
+    color: #183b56;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.blogs-card-sub-heading {
+    color: #959ead;
+    font-size: 16px;
+}
+
+.blogs-card-main-heading {
+    color: #183b56;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.blogs-description {
+    color: #959ead;
+    font-size: 20px;
+}
+
+.blogs-link {
+    color: #ff9f00;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.explore-bg-container {
+    background-color: #f5f7fa;
+}
+
+.explore-main-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.explore-card-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+.explore-card-image-container {
+    padding: 10px;
+}
+
+.explore-card-image {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.explore-card-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.explore-card-sub-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.explore-card-link {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.contact-bg-container {
+    background-color: #323f4b;
+}
+
+.contact-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.contact-button {
+    color: #ff9f00;
+    background-color: transparent;
+    border-width: 2px;
+    border-color: #ff9f00;
+    border-style: solid;
+    font-size: 18px;
+    font-weight: 500;
+    width: 140px;
+    height: 43px;
+}
+
+.footer-bg-container {
+    background-color: #0d2436;
+}
+
+.footer-image-logo {
+    width: 163px;
+    height: 56px;
+}
+
+.icon-container {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 15px;
+    background-color: #152c3e;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.icon {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer-section-heading {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.footer-section-list {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.footer-list-item {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.footer-hr-line {
+    background-color: #5a7184;
+}
+
+.footer-section-copyright {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
